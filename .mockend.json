@@ -1,0 +1,13 @@
+{
+  "Playlist": {
+    "id": "int",
+    "type": "string",
+    "client": {
+        "id": "int",
+        "login": "string"
+    },
+    "created_at": "string",
+    "updated_at": "string",
+    "publish_status": "string"
+  }
+}
