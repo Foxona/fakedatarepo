@@ -9,6 +9,7 @@
   },
   "Client": {
         "id": "int",
-        "login": "string"
+        "login": "string",
+        "playlist": "Playlist"
   }
 }
