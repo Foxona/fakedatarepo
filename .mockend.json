@@ -1,5 +1,6 @@
 {
   "Playlist": {
+    "title": "string",
     "id": "int",
     "type": "string",
     "created_at": "date",
