@@ -5,11 +5,11 @@
     "created_at": "date",
     "updated_at": "date",
     "publish_status": "string",
-    "clients": "Client[]"
+    "client": "Client"
   },
   "Client": {
         "id": "int",
         "login": "string",
-        "playlist": "Playlist"
+        "playlists": "Playlist[]"
   }
 }
